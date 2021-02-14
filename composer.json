@@ -1,0 +1,13 @@
+{
+    "name": "chenghuanhuan/demo",
+    "description": "study",
+    "type": "project", 
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nulinulinuli1987",
+            "email": "263884054@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
